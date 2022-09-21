@@ -1,0 +1,21 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,native-country,class
+32, Federal-gov, 249409, HS-grad, 9, Never-married, Other-service, Own-child, Black, Male, 0, 0, 40, United-States, <=50K
+76, Private, 124191, Masters, 14, Married-civ-spouse, Exec-managerial, Husband, White, Male, 0, 0, 40, United-States, >50K
+44, Private, 198282, Bachelors, 13, Married-civ-spouse, Exec-managerial, Husband, White, Male, 15024, 0, 60, United-States, >50K
+47, Self-emp-not-inc, 149116, Masters, 14, Never-married, Prof-specialty, Not-in-family, White, Female, 0, 0, 50, United-States, <=50K
+20, Private, 188300, Some-college, 10, Never-married, Tech-support, Own-child, White, Female, 0, 0, 40, United-States, <=50K
+29, Private, 103432, HS-grad, 9, Never-married, Craft-repair, Not-in-family, White, Male, 0, 0, 40, United-States, <=50K
+32, Self-emp-inc, 317660, HS-grad, 9, Married-civ-spouse, Craft-repair, Husband, White, Male, 7688, 0, 40, United-States, >50K
+17, ?, 304873, 10th, 6, Never-married, ?, Own-child, White, Female, 34095, 0, 32, United-States, <=50K
+30, Private, 194901, 11th, 7, Never-married, Handlers-cleaners, Own-child, White, Male, 0, 0, 40, United-States, <=50K
+31, Local-gov, 189265, HS-grad, 9, Never-married, Adm-clerical, Not-in-family, White, Female, 0, 0, 40, United-States, <=50K
+42, Private, 124692, HS-grad, 9, Married-civ-spouse, Handlers-cleaners, Husband, White, Male, 0, 0, 40, United-States, <=50K
+24, Private, 432376, Bachelors, 13, Never-married, Sales, Other-relative, White, Male, 0, 0, 40, United-States, <=50K
+38, Private, 65324, Prof-school, 15, Married-civ-spouse, Prof-specialty, Husband, White, Male, 0, 0, 40, United-States, >50K
+56, Self-emp-not-inc, 335605, HS-grad, 9, Married-civ-spouse, Other-service, Husband, White, Male, 0, 1887, 50, Canada, >50K
+28, Private, 377869, Some-college, 10, Married-civ-spouse, Sales, Wife, White, Female, 4064, 0, 25, United-States, <=50K
+36, Private, 102864, HS-grad, 9, Never-married, Machine-op-inspct, Own-child, White, Female, 0, 0, 40, United-States, <=50K
+53, Private, 95647, 9th, 5, Married-civ-spouse, Handlers-cleaners, Husband, White, Male, 0, 0, 50, United-States, <=50K
+56, Self-emp-inc, 303090, Some-college, 10, Married-civ-spouse, Sales, Husband, White, Male, 0, 0, 50, United-States, <=50K
+49, Local-gov, 197371, Assoc-voc, 11, Married-civ-spouse, Craft-repair, Husband, Black, Male, 0, 0, 40, United-States, >50K
+55, Private, 247552, Some-college, 10, Married-civ-spouse, Sales, Husband, White, Male, 0, 0, 56, United-States, <=50K
