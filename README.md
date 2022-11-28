@@ -11,13 +11,17 @@ We hypothesized that wearing glasses and/or masks would impair the effectiveness
 
 So we did a controlled experiment using photos of our group members, where everything is the same within each set of photos except wearing masks and/ or glasses or not.
 
-## Data
-All data used has been uploaded to a public S3 bucket on AWS named "qtm350-final-project." If there are any access issues, we have also uploaded our photo data under "Photos" folder on this github page. We took 4 photos of each of our group members. One with glasses, one with mask, one with both glasses and mask, and one with neither.
+## Data Collection 
+All data used has been uploaded to a public S3 bucket on AWS named "qtm350-final-project." If there are any access issues, we have also uploaded our photo data under "Photos" folder on this github page. 
 
-1: no mask, no glasses
-2: no mask, with glasses
-3: with mask, no glasses
-4: with mask, with glasses
+We took 4 photos of each of our group members. One with glasses, one with mask, one with both glasses and mask, and one with neither.
+
+1. no mask, no glasses 
+2. no mask, with glasses 
+3. with mask, no glasses 
+4. with mask, with glasses
+
+This dataset allowed us to do a controlled experiment on performance of Rekognition algorithm with and without factors of wearing masks and wearing glasses. Since we have 7 group members, we took a total of 7 x 4 = 28 pictures. So our dataset have 28 observations for our input data. 
 
 Note: we have included our code that created an S3 bucket and moved photos to this bucket.
 
