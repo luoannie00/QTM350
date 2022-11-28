@@ -1,6 +1,8 @@
 # QTM350
 Description of how to replicate our final project of using AWS Rekognition
 
+## Blog Post Link: https://github.com/luoannie00/QTM350/blob/main/QTM350_Final_Project.ipynb
+
 ## Introduction
 Currently, the Covid-19 pandemic has resulted in considerable changes to our way of life compared to the era before the pandemic. While wearing masks became a norm in daily life for individuals, it inconveniences us to read and understand others’ facial expressions of emotions under the cover of a mask. According to Grenville and Dwyer, without wearing masks, confidence was significantly greater, with the impact evident for all emotions except anger. It demonstrates that emotion recognition is altered by face masks, but that the effectiveness varies depending on the expressed mood.
 
