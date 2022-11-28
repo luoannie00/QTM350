@@ -34,7 +34,7 @@ Our annotated codes are under "QTM350_Final_Project.ipynb" file, where we looked
 
 ## Architecture
 <img width="763" alt="IMG_4343" src="https://user-images.githubusercontent.com/90478858/204379441-84816236-9879-422d-bfae-42cc900c6158.PNG">
-
+We uploaded images to AWS S3 bucket. We then use sagemaker's jupyter notebook feature with kernal Python3 to connect to S3 and retrieve the photos as input data. We then use Rekognition ML API to analyze the photos and store our analysis into transformed output data. We also did some visualizations for each of our resulting data frames to showcase our result. Finally, we pushed our final blog with contexts, descriptions, codes and walkthroughs, visualizations, and conclusions to this github repo.
 
 ## Conclusion
 In the "Smile" attribute, we found that wearing glasses and/ or mask impaired Rekognition's ability to detect smiles. In peng's example, where Peng smiled in all four photos, Rekognition only detected the smile in the photo with neither glasses nor mask. 
