@@ -23,7 +23,9 @@ We took 4 photos of each of our group members. One with glasses, one with mask, 
 3. with mask, no glasses 
 4. with mask, with glasses
 
-This dataset allowed us to do a controlled experiment on performance of Rekognition algorithm with and without factors of wearing masks and wearing glasses. Since we have 7 group members, we took a total of 7 x 4 = 28 pictures. So our dataset have 28 observations for our input data. 
+This dataset allowed us to do a controlled experiment on performance of Rekognition algorithm with and without factors of wearing masks and wearing glasses. Since we have 7 group members, we took a total of 7 x 4 = 28 pictures. So our dataset have 28 observations for our input data.
+
+Our output data would be two tables demonstrating attributes of Rekognition that we selected to analyze. Please see conclusion for further explanation of our output data.
 
 Note: we have included our code that created an S3 bucket and moved photos to this bucket.
 
