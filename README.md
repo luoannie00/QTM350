@@ -1,6 +1,11 @@
 # QTM350
 Description of how to replicate our final project of using AWS Rekognition
 
+## Introduction
+Currently, the Covid-19 pandemic has resulted in considerable changes to our way of life compared to the era before the pandemic. While wearing masks became a norm in daily life for individuals, it inconveniences us to read and understand others’ facial expressions of emotions under the cover of a mask. According to Grenville and Dwyer, without wearing masks, confidence was significantly greater, with the impact evident for all emotions except anger. It demonstrates that emotion recognition is altered by face masks, but that the effectiveness varies depending on the expressed mood.
+
+This project seeks to identify the flaw in the Rekognition algorithm and determine the effect of wearing masks and glasses in determining the facial expression of emotions(positive vs negative) of individuals. Based on previously mentioned research, we hypothesize that while wearing both masks and glasses would yield the lowest confidence statistics, wearing neither of them would yield the highest confidence results. In comparing wearing a mask and weaning glasses, wearing a mask should present a lower confidence statistic.
+
 ## Objectives
 We hypothesized that wearing glasses and/or masks would impair the effectiveness of AWS Rekognition on recognizing human faces. More specifically, we believe that wearing masks would make it much more difficult for the machine to detect whether one is smiling, and wearing masks and/or glasses would affect Rekognition's ability to predict the emotions of the faces.
 
