@@ -32,6 +32,10 @@ Note: we have included our code that created an S3 bucket and moved photos to th
 ## Code
 Our annotated codes are under "QTM350_Final_Project.ipynb" file, where we looked at facial attributes of whether one's smiling, whether one's wearing glasses, and one's emotion using Rekognition. We also found similarities among faces of the same person using Rekognition.
 
+## Architecture
+<img width="763" alt="IMG_4343" src="https://user-images.githubusercontent.com/90478858/204379441-84816236-9879-422d-bfae-42cc900c6158.PNG">
+
+
 ## Conclusion
 In the "Smile" attribute, we found that wearing glasses and/ or mask impaired Rekognition's ability to detect smiles. In peng's example, where Peng smiled in all four photos, Rekognition only detected the smile in the photo with neither glasses nor mask. 
 In the "Glasses" attribute, we found that Rekognition is tempted to recognize faces with only masks on as having glasses on, since a lot of photos ended with a 3: with mask, no glasses were classified as "True" for "Glasses" feature.
